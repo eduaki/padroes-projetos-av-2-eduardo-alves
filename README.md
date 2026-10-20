@@ -1,9 +1,3 @@
-# Projeto: padroes-projetos-av-seu-nome
-
-**Aluno(a):** [Seu Nome Completo]  
-**Turma:** [Sua Turma]
-
-## Contexto do Projeto
 Este repositório contém a resolução da avaliação prática B1-2 da disciplina de Padrões de Projetos. O objetivo é aplicar padrões de projeto criacionais do catálogo GoF (Gang of Four) para resolver problemas reais de arquitetura de software, garantindo baixo acoplamento, alta coesão e princípios SOLID (como o Aberto/Fechado).
 
 O projeto está dividido em duas pastas independentes, uma para cada questão, contendo o código-fonte Java e o diagrama de classes UML correspondente.
