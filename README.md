@@ -71,9 +71,3 @@ padroes-projetos-av-seu-nome/
         └── ComprovanteChile.java
 ```
 
-## Como executar
-
-```bash
-javac -encoding UTF-8 -d out questao2/src/*.java
-java -cp out Main
-```
